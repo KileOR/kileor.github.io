@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="283px" height="283px" viewBox="0 0 283 283" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Logo" transform="translate(-46.000000, -83.000000)">
-            <g id="Group" transform="translate(46.000000, 83.000000)">
-                <rect id="Rectangle" stroke="#000000" stroke-width="17" x="8.5" y="8.5" width="266" height="266"></rect>
-                <text id="AI" font-family=".SFNSDisplay, .SF NS Display" font-size="120" font-weight="normal" fill="#000000">
-                    <tspan x="83" y="165">AI</tspan>
-                </text>
-            </g>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="#000000" x="0" y="0" width="120" height="120"></rect>
+            <text id="AI" font-family="PlayfairDisplay-Regular, Playfair Display" font-size="70" font-weight="normal" letter-spacing="1" fill="#FFFFFF">
+                <tspan x="25" y="86">A</tspan>
+                <tspan x="70.1" y="86">I</tspan>
+            </text>
         </g>
     </g>
 </svg>
